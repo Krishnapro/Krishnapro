@@ -1,4 +1,4 @@
-# Hey <span class="wave">👋</span> , I'm Krishna!
+## Hey <img src="hi.gif" width="29px">, I'm Krishna!
 
 
 
@@ -35,7 +35,7 @@
 }
 </style> -->
 
-  <h2>About Me 🚀</h2>
+### About Me 🚀
 
 - :man_student: I am open source enthusiast and pursuing my MCA (Master in computer Application) at Haldia Institute of technology.
 
@@ -65,6 +65,8 @@
 ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&hide_border=true)
 </br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
+
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=vue-light" />
 
 ### 🤝 Connect with me:
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
