@@ -1,13 +1,45 @@
-# Hi there, I am Krishna Kumar 👋
+# Hey <span class="wave">👋</span> , I'm Krishna!
+<style>
+.wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .45s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: steps(5,start|end);
+  animation-play-state: initial;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 2rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
+</style>
+
 
 <!--
 **Krishnapro/Krishnapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<a href="https://www.linkedin.com/in/krishnakumar25/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="20" height="20"></a>
+<a href="https://twitter.com/kkrishn95"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="20" height="20"></a>
+<a href="mailto:krishnachaurasia1998@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="20" height="20"></a>
+<!-- <a href=""><img src="" width="20" height="20"></a> -->
 
-- :man_student:I am a first year post gradute pursuing MCA (Master in computer Application) at Haldia Institute of technology.
+<h2>About Me 🚀</h2>
 
-- :technologist: I am currently learning web development and practising javascript and React.js
--  ❤️ I love open source. And Currently I am Participating in  GirlScript Summer of Code and learning about open source.
+- :man_student: I am open source enthusiast and pursuing my MCA (Master in computer Application) at Haldia Institute of technology.
+
+- :technologist: I am passionate about web development, Machine Learning, Mobile Development and I enjoy learning new things.
+
+-  ❤️ I love open source. And Currently I am learning about open source.
+
 - :dart: 2021 Goal is to contribute more in open source
 
 
@@ -27,7 +59,9 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
 
-
+![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&hide_border=true)
+</br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
 
 ### 🤝 Connect with me:
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
