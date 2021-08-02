@@ -3,9 +3,9 @@
 <style>
 .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
-  animation-duration: .45s;  /* Wave speed */
+  animation-duration: .50s;  /* Wave speed */
   animation-iteration-count: infinite;
-  animation-timing-function: steps(5,start|end);
+  animation-timing-function:initial;
   animation-play-state: initial;
   transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
   display: inline-block;
