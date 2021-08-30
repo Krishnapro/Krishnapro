@@ -75,7 +75,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)](https://github.com/Krishnapro/github-readme-streak-stats)
 
 
-
+ 
 ### 🤝 Connect with me:
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/krishna-kumar-759b411a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
