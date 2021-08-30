@@ -68,8 +68,12 @@
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=tokyonight" />
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)](https://github.com/Krishnapro/github-readme-streak-stats)
+</br>
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=tokyonight" /> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/Krishnapro/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)](https://github.com/Krishnapro/github-readme-streak-stats)
+
 
  
 ### 🤝 Connect with me:
