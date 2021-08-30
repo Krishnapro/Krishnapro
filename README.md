@@ -70,9 +70,18 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
 </br>
  
+<div class="streak">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight"/>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)](https://github.com/Krishnapro/github-readme-streak-stats)
-
+<img height="200em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
+</div>
+<style>
+  .streak{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  </style>
 
  
 ### 🤝 Connect with me:
