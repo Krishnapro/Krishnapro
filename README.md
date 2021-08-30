@@ -67,7 +67,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=vue-light" />
- [Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnapro)](https://github.com/Krishnapro/github-readme-stats)
+ 
 
 
 ### 🤝 Connect with me:
