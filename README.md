@@ -62,11 +62,15 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
 
-![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&hide_border=true)
-</br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
+ 
 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=vue-light" />
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&theme=tokyonight)
+</br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnapro&layout=compact&exclude_lang=java+r&theme=tokyonight" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)](https://github.com/Krishnapro/github-readme-streak-stats)
+
 
 ### 🤝 Connect with me:
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
