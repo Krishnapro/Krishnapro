@@ -1,4 +1,4 @@
-## Hey <img src="hi.gif" width="29px">, I'm Krishna!
+## Hey <img src="hi.gif" width="29px">, I'm  <a href="https://krishnapro.github.io/">Krishna!</a>
 
 
 
@@ -9,31 +9,10 @@
 <a href="https://www.linkedin.com/in/krishnakumar25/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="20" height="20"></a>
 <a href="https://twitter.com/kkrishn95"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="20" height="20"></a>
 <a href="mailto:krishnachaurasia1998@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="20" height="20"></a>
-<!-- <a href=""><img src="" width="20" height="20"></a> -->
 
-<!-- <style>
-.wave {
-  animation-name: wave-animation;  /* Name of @keyframes element below */
-  animation-duration: .50s;  /* Wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function:initial;
-  animation-play-state: initial;
-  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 2rem;
-}
+ 
 
-.wave:hover {
-  animation-play-state: running; /* Play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
-</style> -->
+ 
 
 ### About Me 🚀
 
@@ -64,7 +43,7 @@
 
  
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&theme=tokyonight"/>
 
 
 </br>
@@ -73,11 +52,11 @@
 
 </br>
  
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight)
-
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
+</p>
 
  
 ### 🤝 Connect with me:
