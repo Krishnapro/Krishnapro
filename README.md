@@ -1,4 +1,4 @@
-## Hey <img src="hi.gif" width="29px">, I'm  <a href="https://krishnapro.github.io/">Krishna!</a>
+## Hey <img src="hi.gif" width="29px">, I'm  <a href="https://krishnapro.github.io/" targt="_blank">Krishna!</a>
 
 
 
