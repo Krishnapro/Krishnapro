@@ -1,4 +1,4 @@
-## Hey <img src="hi.gif" width="29px">, I'm  <a href="https://krishnapro.github.io/" targt="_blank">Krishna!</a>
+## Hey <img src="hi.gif" width="29px">, I'm  <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a>
 
 
 
@@ -16,13 +16,16 @@
 
 ### About Me 🚀
 
-- :man_student: I am open source enthusiast and pursuing my MCA (Master in computer Application) at Haldia Institute of technology.
+- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm depply passionate about software development & innovation. I belive in the power of community.
+
+
 
 - :technologist: I am passionate about web development, Machine Learning, Mobile Development and I enjoy learning new things.
 
--  ❤️ I love open source. And Currently I am learning about open source.
+-  ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
 
-- :dart: 2021 Goal is to contribute more in open source
+- :dart: 2021 Goal is to contribute more in open source.
+- :technologist: And try to participate in more hackathon.
 
 
 
