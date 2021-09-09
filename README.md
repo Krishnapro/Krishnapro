@@ -46,7 +46,7 @@
 
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnapro&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
 
 
 </br>
@@ -56,7 +56,7 @@
 </br>
  
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
 </p>
