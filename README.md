@@ -1,4 +1,4 @@
-# Hey, I'm Krishna! <img src="hi.gif" width="29px"><a href="https://krishnapro.github.io/" target="_blank"></a>
+# Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="29px">
 
 <!--
 **Krishnapro/Krishnapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm depply passionate about software development & innovation. I belive in the power of community.
+- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
 - :technologist: I am passionate about web development, Machine Learning, Mobile Development and I enjoy learning new things.
 
