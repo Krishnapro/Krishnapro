@@ -1,4 +1,13 @@
-# Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="29px">
+
+# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="29px">
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50">
+
+</p>
+
 
 <!--
 **Krishnapro/Krishnapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
