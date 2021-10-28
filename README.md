@@ -4,18 +4,18 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
 
 <!--
 **Krishnapro/Krishnapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<p align="center">
 <a href="https://www.linkedin.com/in/krishnakumar25/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="20 !important" height="20" style="margin-right:15px !important"></a>
 <a href="https://twitter.com/krishnapro_"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="20" height="20" style="margin-right:15px !important"></a>
 <a href="mailto:krishnachaurasia1998@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="20" height="20"></a>
- 
+</p> 
 
 
 
