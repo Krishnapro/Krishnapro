@@ -89,5 +89,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#32](https://github.com/Krishnapro/Krishnapro/pull/32) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 💪 Opened PR [#32](https://github.com/Krishnapro/Krishnapro/pull/32) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+3. 🎉 Merged PR [#31](https://github.com/Krishnapro/Krishnapro/pull/31) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+4. 💪 Opened PR [#31](https://github.com/Krishnapro/Krishnapro/pull/31) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 🎉 Merged PR [#1](https://github.com/Krishnapro/twilio-project/pull/1) in [Krishnapro/twilio-project](https://github.com/Krishnapro/twilio-project)
 <!--END_SECTION:activity-->
 
