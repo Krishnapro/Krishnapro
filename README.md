@@ -55,10 +55,19 @@
 ### DevOps & Cloud Tools :
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 Stats
+## 💰 Support me :
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
+<a href="https://www.buymeacoffee.com/krishnapro" target="_blank"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px !important;width: 200px !important; border-radius: 200px !important;" >
+    </a>
 
+
+## 📈 Stats :
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
+</p>
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
@@ -66,19 +75,19 @@
 </br>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
 </p>
 
-## Support me
-
-<a href="https://www.buymeacoffee.com/krishnapro" target="_blank"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 217px !important;" >
-    </a>
 
 ## 🤝 Feel free to Connect with me :
 
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://www.linkedin.com/in/krishna-kumar-759b411a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a>
+
+## :zap: Recent activity :
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
