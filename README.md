@@ -89,10 +89,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Krishnapro/Krishnapro/pull/32) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-2. 💪 Opened PR [#32](https://github.com/Krishnapro/Krishnapro/pull/32) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 🎉 Merged PR [#31](https://github.com/Krishnapro/Krishnapro/pull/31) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-4. 💪 Opened PR [#31](https://github.com/Krishnapro/Krishnapro/pull/31) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-5. 🎉 Merged PR [#1](https://github.com/Krishnapro/twilio-project/pull/1) in [Krishnapro/twilio-project](https://github.com/Krishnapro/twilio-project)
+1. 🗣 Commented on [#18](https://github.com/appwrite/php-runtimes/issues/18) in [appwrite/php-runtimes](https://github.com/appwrite/php-runtimes)
+2. 🗣 Commented on [#25](https://github.com/appwrite/demo-todo-with-vue/issues/25) in [appwrite/demo-todo-with-vue](https://github.com/appwrite/demo-todo-with-vue)
+3. 🗣 Commented on [#21](https://github.com/appwrite/demo-todo-with-svelte/issues/21) in [appwrite/demo-todo-with-svelte](https://github.com/appwrite/demo-todo-with-svelte)
+4. 🗣 Commented on [#2038](https://github.com/appwrite/appwrite/issues/2038) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 🗣 Commented on [#2079](https://github.com/appwrite/appwrite/issues/2079) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
