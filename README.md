@@ -32,7 +32,7 @@
 - :dart: 2021 Goal is to contribute more in open source.
 - :technologist: And try to participate in more hackathon.
 ### ✍ Blog :
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-badge&logo=dev.to&logoColor=white">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-badge&logo=dev.to&logoColor=white" height="30px">
 
 ## ⚡ Tech Stack
 
