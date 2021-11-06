@@ -93,10 +93,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/2) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
-2. 💪 Opened PR [#2](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/2) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
-3. 🎉 Merged PR [#1](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/1) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
-4. 💪 Opened PR [#1](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/1) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
-5. 🎉 Merged PR [#35](https://github.com/Krishnapro/Krishnapro/pull/35) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+1. 🎉 Merged PR [#3](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/3) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+2. 💪 Opened PR [#3](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/3) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+3. 🎉 Merged PR [#2](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/2) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+4. 💪 Opened PR [#2](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/2) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+5. 🎉 Merged PR [#1](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/1) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
 <!--END_SECTION:activity-->
 
