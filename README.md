@@ -62,7 +62,7 @@
 ## 💰 Support me :
 
 <a href="https://www.buymeacoffee.com/krishnapro" target="_blank"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px;" >
     </a>
 
 
@@ -84,11 +84,11 @@
 </p>
 
 
-## 🤝 Feel free to Connect with me :
+<!-- ## 🤝 Feel free to Connect with me :
 
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://www.linkedin.com/in/krishna-kumar-759b411a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" width="80" height="20"></a>
-<a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a>
+<a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
 ## :zap: Recent activity :
 
