@@ -94,10 +94,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Krishnapro/Krishnapro/pull/38) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-2. 💪 Opened PR [#38](https://github.com/Krishnapro/Krishnapro/pull/38) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 🎉 Merged PR [#37](https://github.com/Krishnapro/Krishnapro/pull/37) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-4. 💪 Opened PR [#37](https://github.com/Krishnapro/Krishnapro/pull/37) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-5. 🎉 Merged PR [#36](https://github.com/Krishnapro/Krishnapro/pull/36) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+1. 🎉 Merged PR [#4](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/4) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+2. 💪 Opened PR [#4](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/4) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+3. 🎉 Merged PR [#38](https://github.com/Krishnapro/Krishnapro/pull/38) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+4. 💪 Opened PR [#38](https://github.com/Krishnapro/Krishnapro/pull/38) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 🎉 Merged PR [#37](https://github.com/Krishnapro/Krishnapro/pull/37) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
 <!--END_SECTION:activity-->
 
