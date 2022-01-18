@@ -26,11 +26,11 @@
 
 - :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
-- :technologist: I am passionate about web development, Machine Learning, Mobile Development and I enjoy learning new things.
+- :technologist: I am passionate about FullStack development, Machine Learning, DevOps and I enjoy learning new things.
 
 - ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
 
-- :dart: 2021 Goal is to contribute more in open source.
+- :dart: 2022 Goal is to contribute more in open source.
 - :technologist: And try to participate in more hackathon.
 ### ✍ Blog :
 <a href="https://dev.to/krishnapro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-badge&logo=dev.to&logoColor=white" height="30px"></a>
