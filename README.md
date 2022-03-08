@@ -35,7 +35,7 @@
 - :dart: 2022 Goal is to contribute more in open source.
 - :technologist: And try to participate in more hackathon.
 ### ✍ Blog :
-<a href="https://dev.to/krishnapro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-badge&logo=dev.to&logoColor=white" height="30px"></a>
+<a href="https://krishnapro.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>
 
 ## ⚡ Tech Stack
 
