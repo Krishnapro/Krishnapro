@@ -96,10 +96,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2655](https://github.com/layer5io/layer5/issues/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 🗣 Commented on [#2655](https://github.com/layer5io/layer5/issues/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
-3. 🗣 Commented on [#2655](https://github.com/layer5io/layer5/issues/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
-4. 🗣 Commented on [#2633](https://github.com/layer5io/layer5/issues/2633) in [layer5io/layer5](https://github.com/layer5io/layer5)
-5. 💪 Opened PR [#2655](https://github.com/layer5io/layer5/pull/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
+1. ❌ Reopened PR [#2655](https://github.com/layer5io/layer5/pull/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 🎉 Merged PR [#1](https://github.com/Krishnapro/layer5/pull/1) in [Krishnapro/layer5](https://github.com/Krishnapro/layer5)
+3. ❗️ Closed issue [#2633](https://github.com/layer5io/layer5/issues/2633) in [layer5io/layer5](https://github.com/layer5io/layer5)
+4. 💪 Opened PR [#1](https://github.com/Krishnapro/layer5/pull/1) in [Krishnapro/layer5](https://github.com/Krishnapro/layer5)
+5. ❌ Closed PR [#2655](https://github.com/layer5io/layer5/pull/2655) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
 
