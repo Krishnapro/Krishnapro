@@ -97,9 +97,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2663](https://github.com/layer5io/layer5/issues/2663) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 💪 Opened PR [#2663](https://github.com/layer5io/layer5/pull/2663) in [layer5io/layer5](https://github.com/layer5io/layer5)
-3. ❌ Closed PR [#2658](https://github.com/layer5io/layer5/pull/2658) in [layer5io/layer5](https://github.com/layer5io/layer5)
-4. 🗣 Commented on [#2658](https://github.com/layer5io/layer5/issues/2658) in [layer5io/layer5](https://github.com/layer5io/layer5)
-5. ❗️ Reopened issue [#2633](https://github.com/layer5io/layer5/issues/2633) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 🗣 Commented on [#2663](https://github.com/layer5io/layer5/issues/2663) in [layer5io/layer5](https://github.com/layer5io/layer5)
+3. 💪 Opened PR [#2663](https://github.com/layer5io/layer5/pull/2663) in [layer5io/layer5](https://github.com/layer5io/layer5)
+4. ❌ Closed PR [#2658](https://github.com/layer5io/layer5/pull/2658) in [layer5io/layer5](https://github.com/layer5io/layer5)
+5. 🗣 Commented on [#2658](https://github.com/layer5io/layer5/issues/2658) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
 
