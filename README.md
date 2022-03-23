@@ -34,7 +34,7 @@
 
 - :computer: I am interested and open to an interview as an intern and full-time role in the Software Engineering domain. 
 
-- :dart: 2022 Goal is to contribute more in open source.
+- :dart: Currently Contributing to [layer5](https://github.com/layer5io/layer5).
 
 ### ✍ Blog :
 <a href="https://krishnapro.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>
