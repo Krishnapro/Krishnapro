@@ -28,12 +28,14 @@
 
 - :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
+- 💻 I am well versed with Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, Computer Networks and also have a keen interest in High-Level System Design.
+
 - :technologist: I am passionate about FullStack development, Machine Learning, DevOps and I enjoy learning new things.
 
-- ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
+- :computer: I am interested and open to an interview as an intern and full-time role in the Software Engineering domain. 
 
 - :dart: 2022 Goal is to contribute more in open source.
-- :technologist: And try to participate in more hackathon.
+
 ### ✍ Blog :
 <a href="https://krishnapro.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>
 
