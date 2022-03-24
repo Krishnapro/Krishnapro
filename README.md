@@ -26,7 +26,7 @@
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+- :man_student: I am a final year student of MCA (Master of computer Applications) from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
 - 💻 I am well versed with Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, Computer Networks and also have a keen interest in High-Level System Design.
 
