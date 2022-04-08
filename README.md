@@ -98,10 +98,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2703](https://github.com/layer5io/layer5/pull/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 🎉 Merged PR [#2](https://github.com/Krishnapro/Background-Generator/pull/2) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
-3. 💪 Opened PR [#2](https://github.com/Krishnapro/Background-Generator/pull/2) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
-4. 🎉 Merged PR [#1](https://github.com/Krishnapro/Background-Generator/pull/1) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
-5. 💪 Opened PR [#1](https://github.com/Krishnapro/Background-Generator/pull/1) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
+1. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 💪 Opened PR [#2703](https://github.com/layer5io/layer5/pull/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+3. 🎉 Merged PR [#2](https://github.com/Krishnapro/Background-Generator/pull/2) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
+4. 💪 Opened PR [#2](https://github.com/Krishnapro/Background-Generator/pull/2) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
+5. 🎉 Merged PR [#1](https://github.com/Krishnapro/Background-Generator/pull/1) in [Krishnapro/Background-Generator](https://github.com/Krishnapro/Background-Generator)
 <!--END_SECTION:activity-->
 
