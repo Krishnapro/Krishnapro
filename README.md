@@ -98,9 +98,9 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-2. 💪 Opened PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+1. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 🎉 Merged PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+3. 💪 Opened PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
 4. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
 5. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
