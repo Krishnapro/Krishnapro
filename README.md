@@ -26,16 +26,18 @@
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+- :man_student: I am a final year student of MCA (Master of computer Applications) from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+
+- 💻 I am well versed with Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, Computer Networks and also have a keen interest in High-Level System Design.
 
 - :technologist: I am passionate about FullStack development, Machine Learning, DevOps and I enjoy learning new things.
 
-- ❤️ I love open source. And Currently I am learning about how to comtribute in open source.
+- :computer: I am interested and open to an interview as an intern and full-time role in the Software Engineering domain. 
 
-- :dart: 2022 Goal is to contribute more in open source.
-- :technologist: And try to participate in more hackathon.
+- :dart: Currently Contributing to [layer5](https://github.com/layer5io/layer5).
+
 ### ✍ Blog :
-<a href="https://dev.to/krishnapro"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-badge&logo=dev.to&logoColor=white" height="30px"></a>
+<a href="https://krishnapro.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>
 
 ## ⚡ Tech Stack
 
@@ -96,5 +98,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#25](https://github.com/Krishnapro/Krishnapro.github.io/pull/25) in [Krishnapro/Krishnapro.github.io](https://github.com/Krishnapro/Krishnapro.github.io)
+2. 💪 Opened PR [#25](https://github.com/Krishnapro/Krishnapro.github.io/pull/25) in [Krishnapro/Krishnapro.github.io](https://github.com/Krishnapro/Krishnapro.github.io)
+3. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+4. 🎉 Merged PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 💪 Opened PR [#44](https://github.com/Krishnapro/Krishnapro/pull/44) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
 <!--END_SECTION:activity-->
 
