@@ -100,10 +100,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-2. 💪 Opened PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 🎉 Merged PR [#46](https://github.com/Krishnapro/Krishnapro/pull/46) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-4. 💪 Opened PR [#46](https://github.com/Krishnapro/Krishnapro/pull/46) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-5. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+1. 🎉 Merged PR [#48](https://github.com/Krishnapro/Krishnapro/pull/48) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 💪 Opened PR [#48](https://github.com/Krishnapro/Krishnapro/pull/48) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+3. 🎉 Merged PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+4. 💪 Opened PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 🎉 Merged PR [#46](https://github.com/Krishnapro/Krishnapro/pull/46) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
 <!--END_SECTION:activity-->
 
