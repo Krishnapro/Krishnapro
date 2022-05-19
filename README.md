@@ -101,9 +101,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 🎉 Merged PR [#48](https://github.com/Krishnapro/Krishnapro/pull/48) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 💪 Opened PR [#48](https://github.com/Krishnapro/Krishnapro/pull/48) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-4. 🎉 Merged PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-5. 💪 Opened PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+3. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+4. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+5. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
 
