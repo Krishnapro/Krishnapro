@@ -1,5 +1,5 @@
 
-# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="29px">
+# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="30px" height="35">
 </p>
 
 <p align="center">
