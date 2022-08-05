@@ -26,13 +26,13 @@
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) from IN.I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+- :man_student: Engineer working in Backend side—particularly buiding API and testing API using by <a href="https://www.postman.com/"> Postman</a>.
 
-- 💻 I am well versed with Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, Computer Networks and also have a keen interest in High-Level System Design.
+- 💻 I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> where I work on the Business intelligence application project.
 
-- :technologist: I am passionate about FullStack development, Machine Learning, DevOps and I enjoy learning new things.
+- :technologist: I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
 
-- :computer: I am interested and open to an interview as an intern and full-time role in the Software Engineering domain. 
+- :computer: I am interested and open to an interview as a full-time role in the Software Engineering domain. 
 
 - :dart: Currently Contributing to [layer5](https://github.com/layer5io/layer5).
 
@@ -44,7 +44,7 @@
 ## ⚡ Tech Stack
 
 
-### Languages :
+### Languages and Tools :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -52,15 +52,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  
+![REST API](https://img.shields.io/badge/restapi-170095?style=for-the-badge&logo=RESTAPI&logoColor=white)
 
-### Libraries & Frameworks :
- 
+<!-- ### Libraries & Frameworks : -->
+
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=yellow"></a>
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+ <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
+
+ <!-- <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> -->
+
+<!-- <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
+
+<!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=yellow"></a> -->
 
 
 ### DevOps & Cloud Tools :
