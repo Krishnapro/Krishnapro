@@ -106,10 +106,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Krishnapro/Krishnapro/pull/49) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-2. 💪 Opened PR [#49](https://github.com/Krishnapro/Krishnapro/pull/49) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-3. 🎉 Merged PR [#1](https://github.com/Krishnapro/twitter-sentiment-analysis/pull/1) in [Krishnapro/twitter-sentiment-analysis](https://github.com/Krishnapro/twitter-sentiment-analysis)
-4. 💪 Opened PR [#1](https://github.com/Krishnapro/twitter-sentiment-analysis/pull/1) in [Krishnapro/twitter-sentiment-analysis](https://github.com/Krishnapro/twitter-sentiment-analysis)
-5. 🎉 Merged PR [#6](https://github.com/Krishnapro/inspirational-quotes-chrome-extension/pull/6) in [Krishnapro/inspirational-quotes-chrome-extension](https://github.com/Krishnapro/inspirational-quotes-chrome-extension)
+1. 🎉 Merged PR [#50](https://github.com/Krishnapro/Krishnapro/pull/50) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 💪 Opened PR [#50](https://github.com/Krishnapro/Krishnapro/pull/50) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+3. 🎉 Merged PR [#49](https://github.com/Krishnapro/Krishnapro/pull/49) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+4. 💪 Opened PR [#49](https://github.com/Krishnapro/Krishnapro/pull/49) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 🎉 Merged PR [#1](https://github.com/Krishnapro/twitter-sentiment-analysis/pull/1) in [Krishnapro/twitter-sentiment-analysis](https://github.com/Krishnapro/twitter-sentiment-analysis)
 <!--END_SECTION:activity-->
 
