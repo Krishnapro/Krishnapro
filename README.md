@@ -75,7 +75,7 @@
 ## 💰 Support me :
 
 <a href="https://www.buymeacoffee.com/krishnapro" target="_blank"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important; border-radius: 200px !important;" >
     </a>
 
 
@@ -84,13 +84,9 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
-</p>
-</br>
+</p></br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro)
-
-</br>
-
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
 
