@@ -102,10 +102,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1743](https://github.com/ossamamehmood/Hacktoberfest2022/pull/1743) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
-2. 💪 Opened PR [#830](https://github.com/fineanmol/hacktoberfest/pull/830) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-3. 🎉 Merged PR [#51](https://github.com/Krishnapro/Krishnapro/pull/51) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-4. 💪 Opened PR [#51](https://github.com/Krishnapro/Krishnapro/pull/51) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
-5. 🎉 Merged PR [#50](https://github.com/Krishnapro/Krishnapro/pull/50) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+1. 💪 Opened PR [#937](https://github.com/fineanmol/hacktoberfest/pull/937) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+2. 💪 Opened PR [#1743](https://github.com/ossamamehmood/Hacktoberfest2022/pull/1743) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
+3. 💪 Opened PR [#830](https://github.com/fineanmol/hacktoberfest/pull/830) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+4. 🎉 Merged PR [#51](https://github.com/Krishnapro/Krishnapro/pull/51) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 💪 Opened PR [#51](https://github.com/Krishnapro/Krishnapro/pull/51) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
 <!--END_SECTION:activity-->
 
