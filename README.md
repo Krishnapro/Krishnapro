@@ -102,10 +102,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7885](https://github.com/EbookFoundation/free-programming-books/issues/7885) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-2. 💪 Opened PR [#937](https://github.com/fineanmol/hacktoberfest/pull/937) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-3. 💪 Opened PR [#1743](https://github.com/ossamamehmood/Hacktoberfest2022/pull/1743) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
-4. 💪 Opened PR [#830](https://github.com/fineanmol/hacktoberfest/pull/830) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-5. 🎉 Merged PR [#51](https://github.com/Krishnapro/Krishnapro/pull/51) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+1. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#7885](https://github.com/EbookFoundation/free-programming-books/issues/7885) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+4. 💪 Opened PR [#937](https://github.com/fineanmol/hacktoberfest/pull/937) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+5. 💪 Opened PR [#1743](https://github.com/ossamamehmood/Hacktoberfest2022/pull/1743) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
 <!--END_SECTION:activity-->
 
