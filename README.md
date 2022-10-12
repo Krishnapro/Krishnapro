@@ -102,10 +102,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#7885](https://github.com/EbookFoundation/free-programming-books/issues/7885) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. 💪 Opened PR [#937](https://github.com/fineanmol/hacktoberfest/pull/937) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-5. 💪 Opened PR [#1743](https://github.com/ossamamehmood/Hacktoberfest2022/pull/1743) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
+1. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+2. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+3. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#7885](https://github.com/EbookFoundation/free-programming-books/issues/7885) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 <!--END_SECTION:activity-->
 
