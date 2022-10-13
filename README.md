@@ -99,8 +99,17 @@
 <a href="https://www.linkedin.com/in/krishna-kumar-759b411a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
-## :zap: Recent activity :
 
+
+<!-- ## :zap: Recent activity :
+
+START_SECTION:activity
+1. 🎉 Merged PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 💪 Opened PR [#47](https://github.com/Krishnapro/Krishnapro/pull/47) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+3. 🎉 Merged PR [#46](https://github.com/Krishnapro/Krishnapro/pull/46) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+4. 💪 Opened PR [#46](https://github.com/Krishnapro/Krishnapro/pull/46) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+5. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
+END_SECTION:activity -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 2. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
@@ -108,4 +117,5 @@
 4. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 5. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
+
 
