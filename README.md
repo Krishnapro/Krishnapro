@@ -111,11 +111,11 @@ START_SECTION:activity
 5. 🗣 Commented on [#2703](https://github.com/layer5io/layer5/issues/2703) in [layer5io/layer5](https://github.com/layer5io/layer5)
 END_SECTION:activity -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
-2. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
-3. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
-4. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
-5. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#52](https://github.com/Krishnapro/Krishnapro/pull/52) in [Krishnapro/Krishnapro](https://github.com/Krishnapro/Krishnapro)
+2. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+3. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
+4. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+5. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 <!--END_SECTION:activity-->
 
 
