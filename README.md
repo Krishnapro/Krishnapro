@@ -102,10 +102,10 @@
 ## :zap: Recent activity :
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
-2. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
-3. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
-4. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+2. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
+3. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+4. ❗️ Opened issue [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 5. 🗣 Commented on [#2521](https://github.com/EddieHubCommunity/support/issues/2521) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
