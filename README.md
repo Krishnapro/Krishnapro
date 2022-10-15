@@ -100,6 +100,7 @@
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
 
+ 
 
 <!-- ## :zap: Recent activity :
 
@@ -117,5 +118,4 @@ END_SECTION:activity -->
 4. 💪 Opened PR [#168](https://github.com/krish-ag/HacktoberFest22-Repo-DSA/pull/168) in [krish-ag/HacktoberFest22-Repo-DSA](https://github.com/krish-ag/HacktoberFest22-Repo-DSA)
 5. 🗣 Commented on [#231](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/231) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 <!--END_SECTION:activity-->
-
 
