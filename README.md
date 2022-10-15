@@ -1,5 +1,5 @@
 
-# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="29px">
+# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="30px" height="35">
 </p>
 
 <p align="center">
@@ -98,5 +98,6 @@
 <a href="mailto:krishnachaurasia1998@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://www.linkedin.com/in/krishna-kumar-759b411a1/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" width="80" height="20"></a>
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
+
 
  
