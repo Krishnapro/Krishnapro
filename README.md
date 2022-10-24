@@ -26,15 +26,15 @@
 
 ## About Me 🚀
 
-- :man_student: Engineer working in Backend side—particularly buiding API and testing API using by <a href="https://www.postman.com/"> Postman</a>.
+- :man_student: I am an Engineer working in Backend side—particularly buiding API.I like building tools with scalable API.
 
 - 💻 I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> where I work on the Business intelligence application project.
 
 - :technologist: I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
 
-- :computer: I am interested and open to an interview as a full-time role in the Software Engineering domain. 
+<!-- - :computer: I am interested and open to an interview as a full-time role in the Software Engineering domain.  -->
 
-- :dart: Currently Contributing to [layer5](https://github.com/layer5io/layer5).
+- :dart: Current goal is contribute more in opensorce.
 
 ### ✍ Blog :
 
@@ -69,9 +69,7 @@
 
 
 ### DevOps & Cloud Tools :
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a>![Git](https://img.shields.io/badge/-Git-black?&logo=git)
 
 ## 💰 Support me :
 
