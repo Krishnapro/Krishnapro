@@ -4,10 +4,8 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Learner!;Open+Source+Contributor!;&font=Fira%20Code&center=true&width=380&height=50">
-
-</p>
-
+<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Learner!;Open+Source+Contributor!;&font=Fira%20Code&center=true&width=380&height=50">
+</p> -->
 
 <!--
 **Krishnapro/Krishnapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -26,27 +24,24 @@
 
 ## About Me 🚀
 
-- :man_student: I am an Engineer working in Backend side—particularly buiding API.I like building tools with scalable API.
+- :man_student: I am a Software Engineer with 1 year experience in Backend side, work on build API and Microservices.
 
-- 💻 I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> where I work on the Business intelligence application project.
+- 💻 I currently work at product based startup <a href="https://www.asmaka.biz/">Asmaka Ventures</a> where I work on the Business intelligence application project.
 
 - :technologist: I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
-
-<!-- - :computer: I am interested and open to an interview as a full-time role in the Software Engineering domain.  -->
-
 - :dart: Current goal is contribute more in opensorce.
 
-### ✍ Blog :
+ |✍ Blog                 |       💰 Support me            |
+|  ----------            |             -------      |
+  | <a href="https://krishnakumar.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>             |  <a href="https://www.buymeacoffee.com/krishnapro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important; border-radius: 200px !important;" ></a>         |
 
-<a href="https://krishnakumar.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>
- 
 
 ## ⚡ Tech Stack
-
 
 ### Languages and Tools :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -54,28 +49,19 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![REST API](https://img.shields.io/badge/-RESTAPI-170095?style=flat-square&logo=RESTAPI&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-<!-- ### Libraries & Frameworks : -->
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
  <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
-
- <!-- <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> -->
-
-<!-- <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
-
-<!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=yellow"></a> -->
-
-
 ### DevOps & Cloud Tools :
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a>![Git](https://img.shields.io/badge/-Git-black?&logo=git)
 
-## 💰 Support me :
+<!-- ## 💰 Support me :
 
 <a href="https://www.buymeacoffee.com/krishnapro" target="_blank"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important; border-radius: 200px !important;" >
-    </a>
+    </a> -->
 
 
 ## 📈 Stats :
