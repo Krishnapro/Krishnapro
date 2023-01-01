@@ -70,15 +70,21 @@
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+<!-- <p align="center"> -->
 
-</p> 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
 
-## Hashnode Blog:
+<td>
+
+### :writing_hand: Hashnode Blog:
 <!-- HASHNODE_BLOG:START -->
 - [Key Concepts in Database Management: A Beginner's Guide](https://krishnakumar.hashnode.dev/key-concepts-in-database-management-a-beginners-guide)
 - [Selenium- How to Automate web browser](https://krishnakumar.hashnode.dev/selenium-how-to-automate-web-browser)
 - [Getting Started with Portainer- The best GUI for Docker and Kubernetes.](https://krishnakumar.hashnode.dev/getting-started-with-portainer-the-best-gui-for-docker-and-kubernetes)
 - [First Hacktoberfest and open source contribution](https://krishnakumar.hashnode.dev/first-hacktoberfest-and-open-source-contribution)
 <!-- HASHNODE_BLOG:END -->
+</td>
+</tr>
+</table>
