@@ -70,11 +70,20 @@
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+<!-- <p align="center"> -->
 
-</p> 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
+<td>
 
-## Hashnode Blog:
+### :writing_hand: Hashnode Blog:
 <!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE_BLOG:END --> 
+</td>
+</tr>
+</table>
+
+<!-- </p>   -->
+
+
