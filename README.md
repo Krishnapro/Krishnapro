@@ -15,7 +15,7 @@
 
 - :man_student: I am a Software Engineer with 1 year experience in Backend side, work on Java,Spring Framework, Maven, Scala, Database and RestAPI.
 
-- 💻 I currently work at product based startup <a href="https://www.asmaka.biz/">Asmaka Ventures</a> where I work on the Business intelligence application project.
+- 💻 I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as Backend Developer.
 
 - 💻 I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
 - :dart: Current goal is contribute more in opensorce.
