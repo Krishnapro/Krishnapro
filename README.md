@@ -9,7 +9,7 @@
 <a href="mailto:krishnachaurasia1998@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 <a href="https://discordapp.com/users/Krishn#3230">![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
  <a href="https://krishnakumar.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)</a>
-
+ <a href="https://www.buymeacoffee.com/krishnapro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=krishnapro&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" style="height: 30px !important; width: 150px !important;"/></a>
 </p> 
 
 ## About Me 🚀
@@ -21,6 +21,7 @@
 - 💻 I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
 - :dart: Current goal is contribute more in opensorce.
 
+<!--
 <table style="align-item: center">
 <tr >
 <th style="width: 300px">✍ Blog </th>
@@ -28,10 +29,11 @@
 </tr>
 <tr >
 <td style="text-align: center"> <a href="https://krishnakumar.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"></a>  </td>
-<td  style="text-align: center"><a href="https://www.buymeacoffee.com/krishnapro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important; border-radius: 200px !important;" ></a> </td>
+<td  style="text-align: center"><a href="https://www.buymeacoffee.com/krishnapro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important; border-radius: 200px !important;" /></a> </td>
 </tr>
 
 </table>
+-->
 
 
 ## ⚡ Tech Stack
