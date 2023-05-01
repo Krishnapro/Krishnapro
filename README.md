@@ -81,7 +81,7 @@
 
 <td>
 
-### :writing_hand: Hashnode Blog:
+### :writing_hand: Recent article:
 <!-- HASHNODE_BLOG:START -->
 - [A Beginner's Guide to ProcessBuilder in Java](https://krishnakumar.hashnode.dev/a-beginners-guide-to-processbuilder-in-java)
 - [Key Concepts in Database Management: A Beginner's Guide](https://krishnakumar.hashnode.dev/key-concepts-in-database-management-a-beginners-guide)
