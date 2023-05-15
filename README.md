@@ -14,12 +14,10 @@
 
 ## About Me 🚀
 
-- :man_student: I am a Software Engineer with 1 year experience in Backend side, work on Java,Spring Framework, Maven, Scala, Database and RestAPI.
-
-- 💻 I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as Backend Developer.
+- 👩‍💻  I am a Software Engineer with 1 year of experience specializing in Backend development. My expertise lies in Java, Spring Framework, Maven, Scala, Databases, RestAPI, and WebSocket technologies. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as Backend Developer.
 
 - 💻 I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
-- :dart: Current goal is contribute more in opensorce.
+
 
 <!--
 <table style="align-item: center">
@@ -52,10 +50,10 @@
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-
+![Git](https://img.shields.io/badge/-Git-black?&logo=git)
  <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
-### DevOps & Cloud Tools :
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a>![Git](https://img.shields.io/badge/-Git-black?&logo=git)
+<!-- ### DevOps & Cloud Tools :
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a> -->
 
 <!-- ## 💰 Support me :
 
