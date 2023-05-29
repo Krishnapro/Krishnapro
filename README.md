@@ -14,7 +14,7 @@
 
 ## About Me 🚀
 
-- 👩‍💻  I am a Software Engineer with 1 year of experience specializing in Backend development. My expertise lies in Java, Spring Framework, Maven, Scala, Databases, RestAPI, and WebSocket technologies. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as Backend Developer.
+- 👩‍💻  I am a Software Engineer with 1 year of experience specializing in Backend development. My expertise lies in Java, Spring Framework, Maven, Scala, Databases, RestAPI, and WebSocket technologies. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Developer.
 
 - 💻 I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
 
