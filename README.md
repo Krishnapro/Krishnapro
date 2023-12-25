@@ -14,9 +14,7 @@
 
 ## About Me 🚀
 
-- 👩‍💻  I am a Software Engineer with 1.5 year of experience specializing in Backend development/Data Engineering. My expertise lies in Java, Spring Framework, Maven, Scala, Databases, RestAPI, WebSocket, Mircroservices and mircroprocessors technologies. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer.
-
-- 💻 I am passionate about FullStack development, Open Source, DevOps and I enjoy learning new things.
+- 👩‍💻  I am a Software Engineer with 2 year of experience specializing in Backend development and Data Engineering. I have handson experinece in creating RestAPI, WebSocket, Mircroservices and mircroprocessors. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in Data Engineerng team.
 
 
 <!--
@@ -42,6 +40,8 @@
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Play Framework](https://img.shields.io/badge/Play_Framework-236D244?style=for-the-badge&logo=play-framework)
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
