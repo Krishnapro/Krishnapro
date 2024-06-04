@@ -14,7 +14,7 @@
 
 ## About Me 🚀
 
-- 👩‍💻  I am a Software Engineer with 2 year of experience specializing in Backend development and Data Engineering. I have handson experinece in creating RestAPI, WebSocket, Mircroservices and mircroprocessors. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in Data Engineerng team.
+- 👩‍💻  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in RestAPI, WebSocket, Microservices and microprocessors. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.
 
 
 <!--
