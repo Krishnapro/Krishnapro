@@ -7,7 +7,7 @@ on:
 
 jobs:
   update_blogs:
-    name: "Update Blogs"
+    name: "Hashnode Latest Blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
