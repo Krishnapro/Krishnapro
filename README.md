@@ -1,8 +1,8 @@
 
-# <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="30px" height="35">
-</p>
+<!-- # <p align="center">Hey, I'm <a href="https://krishnapro.github.io/" target="_blank">Krishna!</a><img src="hi.gif" width="30px" height="35">
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://www.linkedin.com/in/krishnakumar25/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://twitter.com/krishnapro_">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -10,11 +10,11 @@
 <a href="https://discordapp.com/users/Krishn#3230">![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
  <a href="https://krishnakumar.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)</a>
  <a href="https://www.buymeacoffee.com/krishnapro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=krishnapro&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" style="height: 30px !important; width: 150px !important;"/></a>
-</p> 
+</p> -->
 
 ## About Me 🚀
 
-- 👩‍💻  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in RestAPI, WebSocket, Microservices and microprocessors. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.
+- 👩‍💻  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in building RESTFul API, WebSocket and Microservices. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.
 
 
 <!--
