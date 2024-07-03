@@ -12,10 +12,13 @@
  <a href="https://www.buymeacoffee.com/krishnapro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=krishnapro&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" style="height: 30px !important; width: 150px !important;"/></a>
 </p> -->
 
-## About Me 🚀
+### About Me :
 
-- 👩‍💻  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in building RESTFul API, WebSocket and Microservices. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.
-
+<!--  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in building RESTFul API, WebSocket and Microservices. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.-->
+- 👩‍💻 Software Engineer @<a href="https://www.asmaka.biz/">Asmaka Ventures</a>
+- 2+ years of experience in Backend development and Data Engineering.
+- Building RESTFul API, WebSocket and Microservices.
+- Connect for collaboration on open-source projects.
 
 <!--
 <table style="align-item: center">
