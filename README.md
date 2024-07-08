@@ -86,11 +86,11 @@
 
 ### :writing_hand: Recent article:
 <!-- BLOG-POST-LIST:START -->
+- [Scaling: Horizontal vs Vertical Scaling](https://krishnakumar.hashnode.dev/scaling-horizontal-vs-vertical-scaling)
 - [How to Implement User Authentication and Authorization with SpringBoot and JWT](https://krishnakumar.hashnode.dev/how-to-implement-user-authentication-and-authorization-with-springboot-and-jwt)
 - [A Beginner&#39;s Guide to ProcessBuilder in Java](https://krishnakumar.hashnode.dev/a-beginners-guide-to-processbuilder-in-java)
 - [Key Concepts in Database Management: A Beginner&#39;s Guide](https://krishnakumar.hashnode.dev/key-concepts-in-database-management-a-beginners-guide)
 - [Selenium- How to Automate web browser](https://krishnakumar.hashnode.dev/selenium-how-to-automate-web-browser)
-- [Getting Started with Portainer- The best GUI for Docker and Kubernetes.](https://krishnakumar.hashnode.dev/getting-started-with-portainer-the-best-gui-for-docker-and-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
