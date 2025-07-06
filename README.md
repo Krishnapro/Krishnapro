@@ -16,7 +16,7 @@
 
 <!--  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in building RESTFul API, WebSocket and Microservices. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.-->
 - 👩‍💻 Software Engineer @<a href="https://www.asmaka.biz/">Asmaka Ventures</a>
-- 2+ years of experience in Backend development and Data Engineering.
+- 3+ years of experience in Backend development and Data Engineering.
 - Building RESTFul API, WebSocket and Microservices.
 - Connect for collaboration on open-source projects.
 
